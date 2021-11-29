@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "text": "# What Would you like to Make?",
+      "type": "text",
+      "id": "Field_0h7t8hj"
+    },
+    {
+      "values": [
+        {
+          "label": "Gluhwein",
+          "value": "Gluhwein"
+        },
+        {
+          "label": "Cookies",
+          "value": "Cookies"
+        },
+        {
+          "label": "I'm too lazy too Cook",
+          "value": "TooLazy"
+        }
+      ],
+      "label": "Pick One",
+      "type": "radio",
+      "id": "Field_01s34hd",
+      "key": "whatToPrep",
+      "validate": {
+        "required": true
+      }
+    }
+  ],
+  "type": "default",
+  "id": "WhatToMake"
+}

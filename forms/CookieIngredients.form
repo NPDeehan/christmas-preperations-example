@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "text": "# Get your Cookie Ingredients",
+      "type": "text",
+      "id": "Field_01l7yp1"
+    },
+    {
+      "label": "Flour",
+      "type": "checkbox",
+      "id": "Field_1qrx9fd",
+      "key": "Flour"
+    },
+    {
+      "label": "Baking Powder",
+      "type": "checkbox",
+      "id": "Field_09ihjof",
+      "key": "BakingPowder"
+    },
+    {
+      "label": "Sugar",
+      "type": "checkbox",
+      "id": "Field_1g7l606",
+      "key": "Sugar"
+    },
+    {
+      "label": "Margarine",
+      "type": "checkbox",
+      "id": "Field_16bs24o",
+      "key": "Margarine"
+    },
+    {
+      "values": [
+        {
+          "label": "1 Hour",
+          "value": "PT1H"
+        },
+        {
+          "label": "1 Hour 30 Mins",
+          "value": "PT1H30M"
+        },
+        {
+          "label": "1 Hour 45 Mins",
+          "value": "PT1H45M"
+        },
+        {
+          "label": "Don't Chill",
+          "value": "PT1S"
+        }
+      ],
+      "label": "How Long to Chill for?",
+      "type": "select",
+      "id": "Field_1csmoy8",
+      "key": "chillTime"
+    }
+  ],
+  "type": "default",
+  "id": "CookieIngredients"
+}

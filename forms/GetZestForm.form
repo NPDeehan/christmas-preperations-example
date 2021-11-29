@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "text": "# Ready to Remove Zest?",
+      "type": "text",
+      "id": "Field_0b2vsqf"
+    },
+    {
+      "label": "Get Oranges",
+      "type": "checkbox",
+      "id": "Field_1l7btk2",
+      "key": "getOranges"
+    },
+    {
+      "label": "Remove Zest",
+      "type": "checkbox",
+      "id": "Field_0odteov",
+      "key": "removeZest"
+    }
+  ],
+  "type": "default",
+  "id": "GetZestForm"
+}

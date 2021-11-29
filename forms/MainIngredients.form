@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "text": "# Add the Main Ingredients",
+      "type": "text",
+      "id": "Field_1dqyau8"
+    },
+    {
+      "label": "Put Water on Boil",
+      "type": "checkbox",
+      "id": "Field_18n9lnf",
+      "key": "water"
+    },
+    {
+      "label": "Add Cloves",
+      "type": "checkbox",
+      "id": "Field_0il4qdl",
+      "key": "cloves"
+    },
+    {
+      "label": "Add Cinnamon",
+      "type": "checkbox",
+      "id": "Field_046b9cp",
+      "key": "Cinnamon"
+    }
+  ],
+  "type": "default",
+  "id": "MainIngredients"
+}

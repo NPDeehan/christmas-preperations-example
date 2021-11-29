@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "text": "# Strain and Pour the Gluhwein",
+      "type": "text",
+      "id": "Field_1vjttku"
+    },
+    {
+      "label": "Get a Pot",
+      "type": "checkbox",
+      "id": "Field_09arpp3",
+      "key": "GetPot"
+    },
+    {
+      "label": "Get a Strainer",
+      "type": "checkbox",
+      "id": "Field_1s6at7q",
+      "key": "Strainer"
+    },
+    {
+      "label": "Strain into Serving Vessel ",
+      "type": "checkbox",
+      "id": "Field_1b27wlz",
+      "key": "Strain"
+    }
+  ],
+  "type": "default",
+  "id": "Strain"
+}

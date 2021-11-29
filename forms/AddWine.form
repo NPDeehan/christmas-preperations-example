@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "text": "# Wine Time!",
+      "type": "text",
+      "id": "Field_0pv3cxw"
+    },
+    {
+      "values": [
+        {
+          "label": "Cabernet Sauvignon",
+          "value": "CabernetSauvignon"
+        },
+        {
+          "label": "Merlot",
+          "value": "Merlot"
+        },
+        {
+          "label": "Zinfandel",
+          "value": "Zinfandel"
+        },
+        {
+          "label": "Shiraz",
+          "value": "Shiraz"
+        },
+        {
+          "label": "Pinot Noir",
+          "value": "PinotNoir"
+        }
+      ],
+      "label": "Which Wine do you Want to use",
+      "type": "select",
+      "id": "Field_0ljqgsd",
+      "key": "wine"
+    }
+  ],
+  "type": "default",
+  "id": "AddWine"
+}
